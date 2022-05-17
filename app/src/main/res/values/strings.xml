@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Raffle</string>
+    <string name="title">Raffle</string>
+    <string name="description">Choose a number between 0 and 10</string>
+    <string name="play">play</string>
+    <string name="selected_number">NONE</string>
+    <string name="attribution">Logo designed by starline / Freepik</string>
+</resources>
